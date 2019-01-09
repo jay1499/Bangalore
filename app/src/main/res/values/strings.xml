@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Bangalore</string>
+    <string name="title_activity_items">Items</string>
+    <string name="history">History</string>
+    <string name="scenery">Scenery</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="temple">Temples</string>
+    <string name="nightlife">Nightlife</string>
+    <!--history-->
+    <string name="Introduction">Bangalore is the capital city of the state of Karnataka. It has a population of over ten million, making it a megacity and the third most populous city and fifth most populous urban agglomeration in India. It is located in southern India on the Deccan Plateau. Its elevation is over 900 m (3,000 ft) above sea level, the highest of  major cities in India. </string>
+    <!--restaurant-->
+    <string name="saffron">Saffron Restaurant</string>
+    <string name="karavalli">Karavalli</string>
+    <string name="bene">Bene</string>
+    <string name="brahmin">Brahmin Coffee Bar</string>
+    <string name="raj">Raj Pavillion</string>
+    <string name="saffron1">The food is authentic and always fresh, flavourful and up to standard. The staff are lovely, and the atmosphere in the restaurant is nice.</string>
+    <string name="karavalli1">Nice ambience and the pleasant Bangalore weather does help if u sit outside ! The Kane and the octopus - both outstanding and for main course some Sanas and pork sorpatel </string>
+    <string name="brahmin1"> Brahmins coffee bar serves not only freshly brewed filter coffee but also famous for its soft idlis and crispy medu vadas.</string>
+    <string name="bene1">Great Italian Food.Pizzas and Antipasti were very tasty and well cooked. Both the non veg and veg pizzas were having the right ingredients.</string>
+    <string name="raj1">In a hotel that smacks of the grandeur of the Raj, this beautiful pavilion so aptly named serves the most delectable of buffets and a la carte food amidst the wonderful ambience.</string>
+    <!--temples-->
+    <string name="bull">Bull Temple</string>
+    <string name="iskcon">Iskcon</string>
+    <string name="muruga">Muruga Temple</string>
+    <string name="ganapathi">Ganapathi Temple</string>
+    <string name="shiva">Kempfort Shiva Temple</string>
+    <string name="bull1">Located in Basavanagudi, this temple (built by Kempegowda in the Dravidian style) contains a huge granite monolith of Nandi. The temple grounds also host the annual groundnut fair in November/December.</string>
+    <string name="muruga1">You must visit this temple if you are looking for some peaceful space. This temple offers you beautiful and serene viewing of Lord Kartikeya. The temple is one of a kind and you will feel at the top of world when you get to see half of the city from its top</string>
+    <string name="iskcon1">ISKCON Sri Radha Krishna temple was inaugurated in the year 1997. It is not just a temple, but a cultural complex housing the temples dedicated to the Deities of Sri Sri Radha Krishnachandra, Sri Sri Krishna Balarama, Sri Sri Nitai Gauranga, Sri Srinivasa Govinda, Sri Prahlada Narasimha, Bhakta Hanuman, Garudadeva and Srila Prabhupada, Founder Acharya of ISKCON. ISKCON Bangalore is a charitable society with the objective of propagating Krishna Consciousness all over the world, as explained by Srila Prabhupada, whose teachings are based on Bhagavad-gita and Srimad Bhagavatam.</string>
+    <string name="ganapathi1">Huge Ganesha idol and you feel the aura inside the temple. On each Wednesday, they decorate the entire idol with butter and you feel its full sandalwood. The beauty of the idol is eye-catching then.</string>
+    <string name="shiva1">This is one of the most beautiful temples I have seen! With the enormous idol of Shiva and the different Shivalingas around, it gives a great peace and pleasure in visiting this place. Although the temple is well planned and beautiful, it is situated in one of the most busiest roads of Bangalore- Old Airport Road</string>
+    <!--scenery-->
+    <string name="lalbhag">LalBhag</string>
+    <string name="cubbon">Cubbon Park</string>
+    <string name="avala">Avalabetta</string>
+    <string name="lake">Hebbal Lake</string>
+    <string name="nandi">Nandi Hills</string>
+    <string name="lalbhag1">Huge park well within the city limits.. Full of greenery. With easy access to metro more the reason now to visit here.</string>
+    <string name="lake1">Hebbal lake gets its name from its place Hebbal in North Bangalore. The best view of this lake will be from the famous Hebbal fly-over on the outer-ring-road. The lake is well maintained, with lush green trees and a beautiful sun-set can be seen from this place.</string>
+    <string name="avala1">It is a hill which contains a temple and viewpoints on it. There are steps till the temple and the trek is not difficult. Visit with a gang, it will be nice.</string>
+    <string name="cubbon1">Spread over an area of 300 acres, Cubbon Park in the city of Bangalore is a major sightseeing attraction rich in green foliage. It is a green belt region of the city and is an ideal place for nature lovers and those seeking a calm atmosphere.</string>
+    <string name="nandi1">This was once the summer retreat of Tipu Sultan. It’s a good place for hiking and birding. The hill also has temples dating back to the Chola period. It gets extremely crowded on weekends. The hills offer great views of the surroundings, though.</string>
+    <!--nightlife-->
+    <string name="toit">Toit</string>
+    <string name="loft">LOFT 38</string>
+    <string name="hammered">Hammered</string>
+    <string name="taj">Vivanta By Taj</string>
+    <string name="tipsy">Tipsy Bull</string>
+    <string name="toit1">If you are crazy about Beer and in Bangalore, this is the place to go! They brew their own beer, and its just brilliant - must visit!</string>
+    <string name="loft1">Food is good, the level of spice can be customized especially during the weekdays when it is not so very crowded. Take advantage by going early and getting the happy hour 1+1 offer. </string>
+    <string name="hammered1">Always been a good experience here. Great food provided served along with excellent hospitality at reasonable rates. The pizzas and the non veg platters coupled with LIIT (Cocktail Pitcher) are my favorites here</string>
+    <string name="taj1">Located in the heart of the City it is perfect for a Business trip. The suites are a decent size. Service overrall is perfect. My favourite Chinese restaurant Tamari is in this Hotel.</string>
+    <string name="tipsy1">In a nutshell, this place is perfect to unwind after a hard days work! The booze is decently priced and the food served has a twist with a Desi tadka ! </string>
+    <string name="center">Center</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+
+
+</resources>
